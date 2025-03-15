@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLops/NetworkSecurity/mlruns/0/3206836f95004c1ea1d2422aa9c9acfd/artifacts
+end_time: 1742020698159
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3206836f95004c1ea1d2422aa9c9acfd
+run_name: wistful-crab-810
+run_uuid: 3206836f95004c1ea1d2422aa9c9acfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742020689643
+status: 3
+tags: []
+user_id: hp

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLops/NetworkSecurity/mlruns/0/04bf6f252fae4f2cb50d50cfec3a9e02/artifacts
+end_time: 1742020689522
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04bf6f252fae4f2cb50d50cfec3a9e02
+run_name: salty-hare-582
+run_uuid: 04bf6f252fae4f2cb50d50cfec3a9e02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742020660111
+status: 3
+tags: []
+user_id: hp
