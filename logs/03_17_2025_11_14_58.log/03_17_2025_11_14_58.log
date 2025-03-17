@@ -1,0 +1,6 @@
+[ 2025-03-17 11:15:10,837 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2025-03-17 11:15:10,856 ] 107 dagshub - INFO - Accessing as shivamkr935
+[ 2025-03-17 11:15:13,488 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/shivamkr935/my-first-repo "HTTP/1.1 200 OK"
+[ 2025-03-17 11:15:16,319 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2025-03-17 11:15:16,325 ] 107 dagshub - INFO - Initialized MLflow to track repo "shivamkr935/my-first-repo"
+[ 2025-03-17 11:15:16,328 ] 107 dagshub - INFO - Repository shivamkr935/my-first-repo initialized!
