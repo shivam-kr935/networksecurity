@@ -1,3 +1,25 @@
+📌 About the Project
+This project is an end-to-end MLOps pipeline for Phishing Website Detection designed to automate the entire machine learning lifecycle — from data ingestion to cloud deployment.
+
+It showcases a real-world production-level setup using tools like Docker, MLflow, MongoDB Atlas, AWS S3, EC2, and GitHub Actions to train, track, store, and deploy an ML model that classifies websites as phishing or legitimate.
+
+The solution is packaged into a containerized API using FastAPI and deployed on AWS EC2, enabling scalable real-time inference with integrated CI/CD pipelines.
+
+🎯 Key Highlights:
+Automated ML pipeline: Data ingestion, validation, transformation, training
+
+Model tracking with MLflow & remote experiment logging with DagsHub
+
+CI/CD deployment using Docker, GitHub Actions, and AWS (ECR + EC2)
+
+REST API served via FastAPI for real-time prediction
+
+MongoDB Atlas used for secure cloud data storage
+
+
+
+
+
 # 🚀 Deployment Guide (AWS)
 
 ## 1. 🔐 Login to AWS Console
